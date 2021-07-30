@@ -1,0 +1,11 @@
+data.db
+Project1.exe
+casl-restore-admin-profile.exe
+sqlite3.c
+sqlite3.h
+Project1.layout
+Makefile.win
+casl-restore-admin-profile.layout
+casl-restore-admin-profile.exe
+main.o
+sqlite3.o
